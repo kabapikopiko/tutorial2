@@ -1,2 +1,2 @@
-console.log('AA');
-console.log('RR');
+console.log('A');
+console.log('feature-A ブランチで追加');
